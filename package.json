@@ -1,0 +1,12 @@
+{
+  "name": "search-engine",
+  "version": "1.0.0",
+  "description": "Cloudflare worker to ensure a powerful search engine experience.",
+  "main": "worker.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0"
+  }
+}
